@@ -1,0 +1,13 @@
+# Folders from Google Drive — download from Drive, do not commit
+RKDevTool_v3.19_for_window/
+DriverAssitant_v5.1.1/
+__MACOSX/
+_MACOSX/
+update.img
+
+# Original instruction doc (content is in README)
+*.docx
+
+# IDE / OS
+.idea/
+.DS_Store
